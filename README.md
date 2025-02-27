@@ -1,4 +1,4 @@
-This repository contains tools for uploading and managing knowledge for agent memory retrieval. It allows you to chunk large articles and store them in a memory database that can be accessed by agents during runtime.
+This repository contains basic tools to playaround with agent memory. Very very basic!
 
 ## Overview
 
